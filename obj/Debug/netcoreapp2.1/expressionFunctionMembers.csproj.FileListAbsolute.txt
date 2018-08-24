@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\bin\Debug\netcoreapp2.1\expressionFunctionMembers.deps.json
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\bin\Debug\netcoreapp2.1\expressionFunctionMembers.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\bin\Debug\netcoreapp2.1\expressionFunctionMembers.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\bin\Debug\netcoreapp2.1\expressionFunctionMembers.dll
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\bin\Debug\netcoreapp2.1\expressionFunctionMembers.pdb
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\obj\Debug\netcoreapp2.1\expressionFunctionMembers.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\obj\Debug\netcoreapp2.1\expressionFunctionMembers.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\obj\Debug\netcoreapp2.1\expressionFunctionMembers.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\obj\Debug\netcoreapp2.1\expressionFunctionMembers.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\obj\Debug\netcoreapp2.1\expressionFunctionMembers.dll
+C:\Users\Seth\Workspace\exercises\expressionFunctionMembers\obj\Debug\netcoreapp2.1\expressionFunctionMembers.pdb
